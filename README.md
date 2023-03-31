@@ -23,12 +23,13 @@ THEN I can save my initials and score
 
 
 The URL of the functional, deployed application:-
-
+https://amritpal-kaur0.github.io/CodingQuiz/index.html
 
 The URL of the GitHub repository:-
 https://github.com/Amritpal-Kaur0/CodingQuiz
 
 Screenshot of Deployed application-
+![2023-03-31 (1)](https://user-images.githubusercontent.com/128442182/229133189-ff382c1c-da1c-4242-ace9-9345117a0d5e.png)
 
 
 
