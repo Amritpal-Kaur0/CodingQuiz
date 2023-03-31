@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/style.css" />
+    <title>Coding Quiz Challenge</title>
+  </head>
+  <body>
+    <header>
+      <a href="#">View High Scores</a>
+      <p>  Time Left: <span class="timer">60</span><span>sec</span></p>
+    </header>
+<!-- start page  -->
+    <main>
+      <section>
+        <div class="container">
+          <h1 id="main-heading">Welcome To JavaScript Quiz</h1>
+        <p id="text">
+            Quiz Guide 
+          <ol id="guide">
+          <li>You have only 60 Seconds To Answer All the Questions.</li>
+            <li> You'll Get Points On The basis of Your Correct Answers.</li>
+            <li> You Can't Exit from the Quiz While You Are Playing.</li>
+          </p>
+        </ol>
+          <button>Start Now</button>
+          <!--  high scores  -->
+          <div class="container-scores"></div>
+        </div>
+        <!-- answer message  -->
+        <h2 id="answer"></h2>
+      </section>
+      <section>
+        <div class="container">
+          <!-- Form for high scores -->
+          <form state="hidden" action="">
+            <input type="text" placeholder="Enter your initials" />
+            <!-- For Back and Submit  -->
+            <div class="backsubmit"></div>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <script src="./assets/script.js"></script>
+  </body>
+</html>
