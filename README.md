@@ -31,7 +31,8 @@ https://github.com/Amritpal-Kaur0/CodingQuiz
 Screenshot of Deployed application-
 ![2023-03-31 (1)](https://user-images.githubusercontent.com/128442182/229133189-ff382c1c-da1c-4242-ace9-9345117a0d5e.png)
 
-
+## Support
+If you encounter any issues or have questions, please open an issue in the GitHub repository or contact me at amrit.gill3005@gmail.com
 
 
 
