@@ -117,8 +117,6 @@ function tick() {
     timer.innerHTML -= 1;
   } else {
     getHighScore()
-    // loseGame();
-
   }
 }
 // to minu 10 sec 
@@ -127,7 +125,7 @@ function tick10() {
     timer.innerHTML -= 10;
     wrongAnswer();
   } else {
-    loseGame();
+    getHighScore();
   }
 }
 //Creates a button &callback function on click
