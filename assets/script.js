@@ -116,7 +116,9 @@ function tick() {
   if (timer.innerHTML > 0) {
     timer.innerHTML -= 1;
   } else {
-    loseGame();
+    getHighScore()
+    // loseGame();
+
   }
 }
 // to minu 10 sec 
