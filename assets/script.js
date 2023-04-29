@@ -125,7 +125,8 @@ function tick10() {
     timer.innerHTML -= 10;
     wrongAnswer();
   } else {
-    getHighScore();
+     getHighScore()
+//     loseGame();
   }
 }
 //Creates a button &callback function on click
